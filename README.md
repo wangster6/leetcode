@@ -8,4 +8,4 @@
 258 - Add Digits\
 2703 - Return Length of Arguments Passed\
 2807 - Insert Greatest Common Divisors in Linked List\
-3110 - Score of a String\
+3110 - Score of a String
