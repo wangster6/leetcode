@@ -11,4 +11,5 @@
 2769 - Find the Maximum Achievable Number\
 2807 - Insert Greatest Common Divisors in Linked List\
 2884 - Modify Columns\
-3110 - Score of a String
+3110 - Score of a String\
+3289 - The Two Sneaky Numbers of Digitville
