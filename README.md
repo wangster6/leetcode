@@ -6,6 +6,7 @@
 66 - Plus One\
 121 - Best Time To Buy and Sell Stock\
 258 - Add Digits\
+1929 - Concatenation of Array\
 2703 - Return Length of Arguments Passed\
 2769 - Find the Maximum Achievable Number\
 2807 - Insert Greatest Common Divisors in Linked List\
