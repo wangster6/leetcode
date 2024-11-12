@@ -9,6 +9,7 @@
 1108 - Defanging an IP Address\
 1512 - Number of Good Pairs\
 1757 - Recyclable and Low Fat Products\
+1920 - Build Array from Permutation\
 1929 - Concatenation of Array\
 2703 - Return Length of Arguments Passed\
 2769 - Find the Maximum Achievable Number\
