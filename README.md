@@ -19,5 +19,6 @@
 2807 - Insert Greatest Common Divisors in Linked List\
 2879 - Display the First Three Rows\
 2884 - Modify Columns\
+2894 - Divisible and Non-divisible Sums Difference\
 3110 - Score of a String\
 3289 - The Two Sneaky Numbers of Digitville
