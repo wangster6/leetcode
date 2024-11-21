@@ -7,6 +7,7 @@
 66 - Plus One\
 121 - Best Time To Buy and Sell Stock\
 258 - Add Digits\
+1071 - Greatest Common Divisor of Strings\
 1108 - Defanging an IP Address\
 1512 - Number of Good Pairs\
 1757 - Recyclable and Low Fat Products\
