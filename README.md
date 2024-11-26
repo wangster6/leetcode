@@ -8,6 +8,7 @@
 121 - Best Time To Buy and Sell Stock\
 151 - Reverse Words in a String\
 258 - Add Digits\
+283 - Move Zeroes\
 345 - Reverse Vowel of a String\
 605 - Can Place Flowers\
 1071 - Greatest Common Divisor of Strings\
