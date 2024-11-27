@@ -10,6 +10,7 @@
 258 - Add Digits\
 283 - Move Zeroes\
 345 - Reverse Vowel of a String\
+392 - Is Subsequence\
 605 - Can Place Flowers\
 1071 - Greatest Common Divisor of Strings\
 1108 - Defanging an IP Address\
