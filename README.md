@@ -9,6 +9,7 @@
 151 - Reverse Words in a String\
 258 - Add Digits\
 283 - Move Zeroes\
+334 - Increasing Triplet Subsequence\
 345 - Reverse Vowel of a String\
 392 - Is Subsequence\
 605 - Can Place Flowers\
