@@ -12,6 +12,7 @@
 345 - Reverse Vowel of a String\
 392 - Is Subsequence\
 605 - Can Place Flowers\
+643 - Maximum Average Subarray I\
 1071 - Greatest Common Divisor of Strings\
 1108 - Defanging an IP Address\
 1431 - Kids With the Greatest Number of Candies\
