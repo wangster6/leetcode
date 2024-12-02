@@ -17,6 +17,7 @@
 1108 - Defanging an IP Address\
 1431 - Kids With the Greatest Number of Candies\
 1512 - Number of Good Pairs\
+1732 - Find the Highest Altitude\
 1757 - Recyclable and Low Fat Products\
 1768 - Merge Strings Alternatively\
 1920 - Build Array from Permutation\
