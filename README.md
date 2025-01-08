@@ -28,7 +28,7 @@
 2181 - Merge Nodes in Between Zeros\
 2469 - Convert the Temperature\
 2356 - Number of Unique Subjects Taught by Each Teacher\
-2620 - Counter\
+2620 - Counter **(REVIEW)**\
 2667 - Create Hello World Function\
 2703 - Return Length of Arguments Passed\
 2769 - Find the Maximum Achievable Number\
