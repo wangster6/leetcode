@@ -5,6 +5,7 @@
 26 - Remove Duplicates from Sorted Array\
 27 - Remove Element\
 66 - Plus One\
+88 - Merge Sorted Array\
 121 - Best Time To Buy and Sell Stock\
 151 - Reverse Words in a String\
 238 - Product of Array Except Self\
