@@ -20,6 +20,7 @@
 1071 - Greatest Common Divisor of Strings\
 1108 - Defanging an IP Address\
 1431 - Kids With the Greatest Number of Candies\
+1492 - The kth Factor of n\
 1512 - Number of Good Pairs\
 1732 - Find the Highest Altitude\
 1757 - Recyclable and Low Fat Products\
