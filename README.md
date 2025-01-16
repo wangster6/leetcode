@@ -30,6 +30,7 @@
 2011 - Final Value of Variable After Performing Operations\
 2114 - Maximum Number of Words Found in Sentences\
 2181 - Merge Nodes in Between Zeros\
+2405 - Optimal Partition of String\
 2469 - Convert the Temperature\
 2356 - Number of Unique Subjects Taught by Each Teacher\
 2620 - Counter **(REVIEW)**\
