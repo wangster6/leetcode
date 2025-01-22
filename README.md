@@ -5,6 +5,7 @@
 21 - Merge Two Sorted Lists\
 26 - Remove Duplicates from Sorted Array\
 27 - Remove Element\
+28 - Find the Index of the First Occurrence in a String\
 66 - Plus One\
 88 - Merge Sorted Array\
 121 - Best Time To Buy and Sell Stock\
