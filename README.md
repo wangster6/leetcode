@@ -13,6 +13,7 @@
 66 - Plus One\
 88 - Merge Sorted Array\
 108 - Convert Sorted Array to Binary Search Tree **(REVIEW)**\
+118 - Pascal's Triangle\
 121 - Best Time To Buy and Sell Stock\
 151 - Reverse Words in a String\
 169 - Majority Element **(REVIEW)**\
